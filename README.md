@@ -4,7 +4,7 @@ In my current role as a System Integration Engineer, I specialize in designing, 
 
 My expertise includes containerization, orchestration, and automation using Kubernetes, Docker, and other cloud-native technologies. Additionally, I have a strong background in Linux system administration and developing CI/CD pipelines using tools like Jenkins, TeamCity, and Octopus Deploy.
 
-With my 6 years of experience in SQL Database administration, I have a deep understanding of database design, performance tuning, backup and recovery, and disaster recovery. I have worked with a variety of database platforms, including Microsoft SQL Server, MySQL, and PostgreSQL.
+Additionally, with my 6 years of experience in SQL Database administration, I have a deep understanding of database design, performance tuning, backup and recovery, and disaster recovery. I have worked with a variety of database platforms, including Microsoft SQL Server, MySQL, and PostgreSQL.
 
 Some of my key skills and areas of expertise include:
 
